@@ -28,5 +28,12 @@ The HR team relied heavily on static spreadsheets and manual reporting, leading 
 - Improved access to workforce insights for leadership
 - Created a scalable reporting structure for future HR analytics
 
+## Dashboard Preview
+
+![Overview](dashboard/overview.png)
+![Hiring Trends](dashboard/hiring_trends.png)
+![Attrition](dashboard/attrition.png)
+
+
 ## Data Disclaimer
 All data presented here has been anonymized or simulated to protect organizational confidentiality.
